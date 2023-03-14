@@ -1,7 +1,10 @@
 ---
 hero:
-  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
-  maxWidthPX: 652
+  heading: Цей блог може бути корисним для людей, які хочуть почати інвестувати заощадження,
+    але не знають, як почати, а також для досвідчених інвесторів, які шукають нові
+    можливості для прибуткового інвестування.
+  maxWidthPX: "652"
 seo:
-  image: /images/hero-2.jpg
+  image: "/images/hero-2.jpg"
+
 ---
